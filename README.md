@@ -11,3 +11,7 @@ This project involves executing queries on Microsoft SQL server with the help of
 - When we look into map, it shows that Czechia in Europe has about 16% Average Population Infected with Covid which is far more compared to its neighbour whereas United States has about ~10% Average Population infected with Covid.
 - In the line chart, after  the data has been plotted till March, Tableau analysis feature has predicted
  Percent Population Infection rate till Oct 2021, we can see that Percent Population Infected has almost doubled just in span of 7 months for United States.
+
+
+
+Here, is the link to my Tableau public Dashboard: https://public.tableau.com/app/profile/krutika.m1057/viz/CovidDashboard2020-April2021/Dashboard1?publish=yes
